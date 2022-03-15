@@ -1,0 +1,10 @@
+/* General */
+@import url('reset.css');
+@import url('font.css');
+@import url('variable.css');
+
+/* Layouts */
+@import url('./layouts/header.css');
+
+/* Pages */
+@import url('./pages/home.css');
